@@ -5,6 +5,8 @@
 Quando forem iniciar o back usem esse carinha aqui: https://start.spring.io/
 Vlw flw tamo junto <3
 
+## About
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
